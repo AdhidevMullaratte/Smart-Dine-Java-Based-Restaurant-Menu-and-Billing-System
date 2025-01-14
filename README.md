@@ -1,3 +1,3 @@
 # Smart-Dine-Java-Based-Restaurant-Menu-and-Billing-System
-Your Restaurant Menu and Billing App is a robust Java-based application integrated with a MySQL database to manage restaurant operations efficiently. The app connects seamlessly with the MySQL backend, ensuring real-time data storage and retrieval for menu management, order processing, and billing.
-
+About the Project
+Welcome to Smart Dine, a project I built to simplify restaurant operations with Java and MySQL! This application is designed to manage menus, process customer orders, and generate bills in real-time, all while maintaining seamless integration with a MySQL database for data storage. It’s a complete solution for anyone looking to digitize restaurant workflows.
